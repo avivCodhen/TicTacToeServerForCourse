@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aviv\\RiderProjects\\WebApplication\\WebApplication\\WebApplication.csproj": {}
+    "C:\\.Projects\\tictactoe\\TicTacToeServerForCourse\\WebApplication\\WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aviv\\RiderProjects\\WebApplication\\WebApplication\\WebApplication.csproj": {
+    "C:\\.Projects\\tictactoe\\TicTacToeServerForCourse\\WebApplication\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aviv\\RiderProjects\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "C:\\.Projects\\tictactoe\\TicTacToeServerForCourse\\WebApplication\\WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "C:\\Users\\aviv\\RiderProjects\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectPath": "C:\\.Projects\\tictactoe\\TicTacToeServerForCourse\\WebApplication\\WebApplication.csproj",
         "packagesPath": "C:\\Users\\aviv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aviv\\RiderProjects\\WebApplication\\WebApplication\\obj\\",
+        "outputPath": "C:\\.Projects\\tictactoe\\TicTacToeServerForCourse\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

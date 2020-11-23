@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\aviv\\RiderProjects\\WebApplication\\WebApplication\\WebApplication.csproj",
+    "projectUniqueName": "C:\\.Projects\\tictactoe\\TicTacToeServerForCourse\\WebApplication\\WebApplication.csproj",
     "projectName": "WebApplication",
-    "projectPath": "C:\\Users\\aviv\\RiderProjects\\WebApplication\\WebApplication\\WebApplication.csproj",
-    "outputPath": "C:\\Users\\aviv\\RiderProjects\\WebApplication\\WebApplication\\obj\\",
+    "projectPath": "C:\\.Projects\\tictactoe\\TicTacToeServerForCourse\\WebApplication\\WebApplication.csproj",
+    "outputPath": "C:\\.Projects\\tictactoe\\TicTacToeServerForCourse\\WebApplication\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
