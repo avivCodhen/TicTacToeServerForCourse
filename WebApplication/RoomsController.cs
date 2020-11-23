@@ -36,7 +36,7 @@ namespace WebApplication
             if (_roomsRepo.RoomsAndBoards[requestModel.Room][requestModel.x][requestModel.y] != "empty")
                 return BadRequest($"Value already exists in {requestModel.x}, {requestModel.y}");
             
-            _roomsRepo.RoomsAndBoards[requestModel.Room][requestModel.x][ requestModel.y] = requestModel.Type;
+            _roomsRepo.RoomsAndBoards[requestModel.Room][requestModel.y][ requestModel.x] = requestModel.Type;
 
             return Ok(_roomsRepo.RoomsAndBoards[requestModel.Room]);
         }
